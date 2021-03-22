@@ -1,3 +1,1 @@
-*Restaurant Rater MVC Application*
-
-
+# Restaurant Rater MVC Application
